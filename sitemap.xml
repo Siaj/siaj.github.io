@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://siaj.github.io/tags/academic/</loc>
+    <lastmod>2019-12-13T12:06:37-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://siaj.github.io/project/ai-recommender_system/</loc>
+    <lastmod>2019-12-13T12:06:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/authors/</loc>
     <lastmod>2019-12-13T12:06:37-06:00</lastmod>
   </url>
   
@@ -18,8 +28,13 @@
   </url>
   
   <url>
-    <loc>https://siaj.github.io/tags/academic/</loc>
-    <lastmod>2019-12-13T12:06:08-06:00</lastmod>
+    <loc>https://siaj.github.io/authors/sibdow-iddrisu/</loc>
+    <lastmod>2019-12-13T12:06:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/tags/</loc>
+    <lastmod>2019-12-13T12:06:37-06:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +43,7 @@
   </url>
   
   <url>
-    <loc>https://siaj.github.io/tags/</loc>
-    <lastmod>2019-12-13T12:06:08-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/authors/</loc>
-    <lastmod>2019-08-13T11:48:38-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://siaj.github.io/project/iot-fire_prevention_system/</loc>
-    <lastmod>2019-08-13T11:48:38-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/authors/sibdow-iddrisu/</loc>
     <lastmod>2019-08-13T11:48:38-06:00</lastmod>
   </url>
   

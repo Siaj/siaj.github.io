@@ -5,12 +5,20 @@
     <link>https://siaj.github.io/tags/academic/</link>
       <atom:link href="https://siaj.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 . Sibdow Iddrisu</copyright><lastBuildDate>Fri, 13 Dec 2019 12:06:08 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 . Sibdow Iddrisu</copyright><lastBuildDate>Fri, 13 Dec 2019 12:06:37 -0600</lastBuildDate>
     <image>
       <url>https://siaj.github.io/img/icon-192.png</url>
       <title>academic</title>
       <link>https://siaj.github.io/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>AI Recommender System</title>
+      <link>https://siaj.github.io/project/ai-recommender_system/</link>
+      <pubDate>Fri, 13 Dec 2019 12:06:37 -0600</pubDate>
+      <guid>https://siaj.github.io/project/ai-recommender_system/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiRDS App</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>IoT - Fire Prevention System</title>
+      <title>IoT System</title>
       <link>https://siaj.github.io/project/iot-fire_prevention_system/</link>
       <pubDate>Tue, 13 Aug 2019 11:48:38 -0600</pubDate>
       <guid>https://siaj.github.io/project/iot-fire_prevention_system/</guid>
