@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Sibdow Iddrisu">
 
   
   
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="Computer Science MSc.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://siaj.github.io/authors/admin/">
@@ -67,8 +67,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -91,11 +89,47 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NC7165Y0TD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-NC7165Y0TD', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/authors/admin/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/authors/admin/index.xml" type="application/rss+xml" title="Sibdow Iddrisu">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -114,10 +148,10 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="Sibdow Iddrisu">
   <meta property="og:url" content="https://siaj.github.io/authors/admin/">
-  <meta property="og:title" content=" | Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="https://siaj.github.io/img/icon-192.png">
+  <meta property="og:title" content=" | Sibdow Iddrisu">
+  <meta property="og:description" content="Computer Science MSc."><meta property="og:image" content="https://siaj.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://siaj.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -137,7 +171,7 @@
 
 
 
-  <title> | Academic</title>
+  <title> | Sibdow Iddrisu</title>
 
 </head>
 
@@ -158,8 +192,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -182,7 +215,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sibdow Iddrisu</a>
     </div>
     
 
@@ -195,13 +228,13 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Sibdow Iddrisu</a>
     </div>
     
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -259,7 +292,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#skills"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
         </li>
 
         
@@ -317,7 +379,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#accomplishments"><span>Accomplishments</span></a>
         </li>
 
         
@@ -352,6 +414,28 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
       
 
         
@@ -359,10 +443,6 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
       
 
       
@@ -410,18 +490,18 @@
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait" src="/authors/admin/avatar_hu232835aa43367bb556819f878afd2407_38311_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2>Nelson Bighetti</h2>
-        <h3>Professor of Artificial Intelligence</h3>
+        <h2>Sibdow Iddrisu</h2>
+        <h3>Computer Science MSc.</h3>
 
         
         <h3>
-          
-          <span>Stanford University</span>
-          
+          <a href="http://www.uregina.ca" target="_blank" rel="noopener">
+          <span>University of Regina</span>
+          </a>
         </h3>
         
       </div>
@@ -457,23 +537,8 @@
           
         
         <li>
-          <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
+          <a href="https://www.linkedin.com/in/sibdow-iddrisu-265a649a/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
         
@@ -489,8 +554,23 @@
           
         
         <li>
-          <a href="https://github.com/gcushen" target="_blank" rel="noopener">
+          <a href="https://github.com/Siaj" target="_blank" rel="noopener">
             <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/files/cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
         
@@ -503,8 +583,10 @@
     
     
 
-    <p>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
+    <p>A recent graduate (2019) from the University of Regina, Canada - enthusiastic about computer science applied to solving everyday problems. During my studies, I took several courses that involved extensive research into the subject matter as well as technical implementation(s). The courses taken included: Software Engineering, Information Visualization, Information Retrieval, Artificail Intelligence, Database Systems, Human Computer Communications, Networking, Compiler Design, IoT and JavaEE Programming.</p>
+<p>Rich experience in the telecommunications industry as a NOC Engineer - monitoring and troubleshooting fault alarms - on remote cell towers of the biggest telecommunications company in Ghana - MTN. Acquired time management skills, decision making, being able to work under pressure, multitasking, prioritization, customer management skills and many other soft skills during this period</p>
+<p>Also, I have extensive programming experience gained on courses taken in class and online, personal projects and internships. Languages I have worked with include: Python, Java, C++ and Arduino C. Web development experience in JavaScript(Angular), Java(JavaEE) and Pyhton(Django, Django CMS)</p>
+<p>Please find attached my <a href="/files/cv.pdf" target="_blank">resume</a> for more details</p>
 
 
     <div class="row">
@@ -516,7 +598,9 @@
           
           <li>Artificial Intelligence</li>
           
-          <li>Computational Linguistics</li>
+          <li>Software Engineering</li>
+          
+          <li>Web and Application Development</li>
           
           <li>Information Retrieval</li>
           
@@ -532,24 +616,16 @@
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Artificial Intelligence, 2012</p>
-              <p class="institution">Stanford University</p>
+              <p class="course">MSc in Computer Science, 2019</p>
+              <p class="institution">University of Regina</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MEng in Artificial Intelligence, 2009</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BSc in Artificial Intelligence, 2008</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
+              <p class="course">BSc in Computer Science, 2014</p>
+              <p class="institution">Kwame Nkrumah University of Science and Technology</p>
             </div>
           </li>
           
@@ -598,8 +674,6 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
     
     
@@ -607,45 +681,13 @@
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -663,12 +705,10 @@
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.3227ab49eed49815d1b4ba40154f74e7.js"></script>
+    <script src="/js/academic.min.f218084425bfafebbca8d75760d5fa66.js"></script>
 
     
 
@@ -684,7 +724,7 @@
   
 
   <p class="powered-by">
-    
+    © 2019 ~ Sibdow Iddrisu &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

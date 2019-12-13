@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Sibdow Iddrisu</title>
     <link>https://siaj.github.io/</link>
       <atom:link href="https://siaj.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Sibdow Iddrisu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ~ Sibdow Iddrisu</copyright>
     <image>
       <url>https://siaj.github.io/img/icon-192.png</url>
-      <title>Academic</title>
+      <title>Sibdow Iddrisu</title>
       <link>https://siaj.github.io/</link>
     </image>
     
