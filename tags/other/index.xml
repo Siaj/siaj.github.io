@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other | Sibdow Iddrisu</title>
+    <link>https://siaj.github.io/tags/other/</link>
+      <atom:link href="https://siaj.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 15 Dec 2019 00:44:06 -0600</lastBuildDate>
+    <image>
+      <url>https://siaj.github.io/img/icon-192.png</url>
+      <title>other</title>
+      <link>https://siaj.github.io/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Django</title>
+      <link>https://siaj.github.io/project/django/</link>
+      <pubDate>Sun, 15 Dec 2019 00:44:06 -0600</pubDate>
+      <guid>https://siaj.github.io/project/django/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://siaj.github.io/project/angular/</link>
+      <pubDate>Sun, 15 Dec 2019 00:43:28 -0600</pubDate>
+      <guid>https://siaj.github.io/project/angular/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
