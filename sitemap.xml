@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://siaj.github.io/authors/admin/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/authors/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/tags/other/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/project/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/project/reactjs/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://siaj.github.io/tags/</loc>
+    <lastmod>2020-05-10T18:39:53-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://siaj.github.io/post/aws-certification-solutions-architect/</loc>
     <lastmod>2020-05-09T19:57:26-06:00</lastmod>
   </url>
@@ -13,37 +48,7 @@
   </url>
   
   <url>
-    <loc>https://siaj.github.io/</loc>
-    <lastmod>2020-05-09T19:57:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/authors/</loc>
-    <lastmod>2019-12-15T00:44:06-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://siaj.github.io/project/django/</loc>
-    <lastmod>2019-12-15T00:44:06-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/tags/other/</loc>
-    <lastmod>2019-12-15T00:44:06-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/project/</loc>
-    <lastmod>2019-12-15T00:44:06-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/authors/sibdow-iddrisu/</loc>
-    <lastmod>2019-12-15T00:44:06-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/tags/</loc>
     <lastmod>2019-12-15T00:44:06-06:00</lastmod>
   </url>
   
@@ -70,10 +75,6 @@
   <url>
     <loc>https://siaj.github.io/project/iot-fire_prevention_system/</loc>
     <lastmod>2019-08-13T11:48:38-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://siaj.github.io/authors/admin/</loc>
   </url>
   
   <url>

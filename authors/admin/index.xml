@@ -5,12 +5,137 @@
     <link>https://siaj.github.io/authors/admin/</link>
       <atom:link href="https://siaj.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Sibdow Iddrisu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
     <image>
       <url>https://siaj.github.io/img/icon-192.png</url>
       <title>Sibdow Iddrisu</title>
       <link>https://siaj.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Reactjs</title>
+      <link>https://siaj.github.io/project/reactjs/</link>
+      <pubDate>Sun, 10 May 2020 18:39:53 -0600</pubDate>
+      <guid>https://siaj.github.io/project/reactjs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PASSING MY AWS CERTIFIED SAA EXAM</title>
+      <link>https://siaj.github.io/post/aws-certification-solutions-architect/</link>
+      <pubDate>Sat, 09 May 2020 19:57:26 -0600</pubDate>
+      <guid>https://siaj.github.io/post/aws-certification-solutions-architect/</guid>
+      <description>&lt;p&gt;This is just a short post about the tools and materials I used to prepare for and pass my AWS certifications (Certified Cloud Practitioner and Certified Solutins Architect Associate). My initial preparation was towards the Solutions Architect Examination but then I decided to take the Practitioner exam before that, knowing that if I passed that one, it would give me lots of confidence going in for the Solutions Architect exam.&lt;/p&gt;
+&lt;p&gt;The whole preparation process took roughly 7 weeks for me, and that&#39;s one thing about these certification exams, you need to take as much time as possible to prepare for them as they can be really tricky and difficult if you do not have the sufficient preparation.&lt;/p&gt;
+&lt;p&gt;I made use of materials from the AWS certification prep website (&lt;a href=&#34;#aws_links&#34;&gt;link below&lt;/a&gt;), where I got the gist of what to know and some recommended material to study in order to pass the exam. Things like the exam guide and a sample question is available to give you a general idea as to what to expect. Most importantly, there are links to the whitepapers and FAQs of the necessary services you need to know.&lt;/p&gt;
+&lt;p&gt;Just thas alone was not enough to effectively study for the exam, so I made use of some video tutorials from udemy (&lt;a href=&#34;#vid_train&#34;&gt;link below&lt;/a&gt;). The videos really helped me a lot, as it made going through and learning about the various services less painful - because you see someone explain and demonstrate. I went through the video tutorials twice; the first round was just watching to get a general idea of the content (more like watching a TV show) and in the second round, I made lots of notes and got my &amp;lsquo;hands dirty&amp;rsquo; by practicing along with the instructor.&lt;/p&gt;
+&lt;p&gt;After feeling confident about the knowledge gained so far, I got an exam prep practice exam (also from udemy - &lt;a href=&#34;#practice&#34;&gt;link below&lt;/a&gt;) to validate my knowledge before going in for the main exam. In my opinion, these practice tests are generally difficult than the main exam but excellent in preparing you for the exam - so don&#39;t be heart broken if you fail a couple of them. They provide detailed explanations to the solutions and that again helps in clearing some doubts and solidifying your knowledge in the subject matter.&lt;/p&gt;
+&lt;p&gt;I took the Cloud Practioner exam after this, and it was really good - it helped increase my confidence, so I booked the Solutions Architect Associate (SAA) exam for the following week and passed that one too. Currently preparing to take the Developer Associate exam sometime this month and maybe the SysOps Admin Associate some other time in the near future.&lt;/p&gt;
+&lt;p&gt;I am hoping this would help those interested in pursuing the AWS Certified Solutions Architect Exam or even the Cloud Practitioner (&lt;a href=&#34;#vid&#34;&gt;video below&lt;/a&gt;) prepare sufficiently in order to ace these exams. Good Luck!!&lt;/p&gt;
+&lt;h1 id=&#34;materials&#34;&gt;&lt;strong&gt;MATERIALS&lt;/strong&gt;&lt;/h1&gt;
+&lt;div id=&#34;aws_links&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;1. AWS Whitepapers &amp;amp; Other Materials:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/certification/certification-prep/&#34; target=&#34;_balnk&#34;&gt;AWS Certification Prep - Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/architecture/well-architected/&#34; target=&#34;_balnk&#34;&gt;AWS Well-Architected Framework - Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf&#34; target=&#34;_balnk&#34;&gt;AWS Cloud Best Practices - PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NB: Please read product documentation for the required services (Overview, Features &amp;amp; Faqs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;vid_train&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;2. Videos Tutorials on Udemy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/&#34; target=&#34;_blank&#34;&gt;Stephane Maarek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate/&#34; target=&#34;_blank&#34;&gt;A Cloud Guru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;practice&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;3. Practice Exams on Udemy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/&#34; target=&#34;_balnk&#34;&gt;Solutions Architect Practice Exams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;SOME IMPORTANT NOTES FOR SAA:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Please take some time to watch some AWS re:Invent videos on youtube, they have really excellent talks about their products and services (what is better than learning about a product from the owners of the product)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You should know and understand the concepts around the Amazon VPC inside-out. Be able to design, build and solve VPC problem efficiently without any reference&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Understand Designing Reliable and Highly Available Architectures (Load Balancing + Target Groups, Auto Scaling Groups + Launch configs, Database Multi-AZ, S3 Cross-Region Replication, S3 Storage tiers, CloudFront CDN, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Architecture Security (IAM, VPC Security [Private Subnets; Security Groups; Network Access Control Lists; using VPC Endpoints and NAT Gateways], Encryption/KMS)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cost-Effective Design (Ex. Use of Reserved Instances rather than On-Demand Instance in certain circumstances to save cost)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;vid&#34; style=&#34;padding-top: 50px&#34;&gt;
+  
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3hLmDS179YE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://siaj.github.io/project/django/</link>
+      <pubDate>Sun, 15 Dec 2019 00:44:06 -0600</pubDate>
+      <guid>https://siaj.github.io/project/django/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://siaj.github.io/project/angular/</link>
+      <pubDate>Sun, 15 Dec 2019 00:43:28 -0600</pubDate>
+      <guid>https://siaj.github.io/project/angular/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommender</title>
+      <link>https://siaj.github.io/project/ai-recommender_system/</link>
+      <pubDate>Fri, 13 Dec 2019 12:06:37 -0600</pubDate>
+      <guid>https://siaj.github.io/project/ai-recommender_system/</guid>
+      <description>&lt;p&gt;Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the &lt;a href=&#34;https://github.com/Siaj&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BiRDS App</title>
+      <link>https://siaj.github.io/project/birds-app/</link>
+      <pubDate>Fri, 13 Dec 2019 12:06:08 -0600</pubDate>
+      <guid>https://siaj.github.io/project/birds-app/</guid>
+      <description>&lt;p&gt;Birth and Death Registry Automation System. Find the &lt;a href=&#34;https://github.com/Siaj/birdsApp&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IoT System</title>
+      <link>https://siaj.github.io/project/iot-fire_prevention_system/</link>
+      <pubDate>Tue, 13 Aug 2019 11:48:38 -0600</pubDate>
+      <guid>https://siaj.github.io/project/iot-fire_prevention_system/</guid>
+      <description>&lt;p&gt;IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the &lt;a href=&#34;https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

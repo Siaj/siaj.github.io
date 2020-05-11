@@ -5,12 +5,25 @@
     <link>https://siaj.github.io/</link>
       <atom:link href="https://siaj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sibdow Iddrisu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sat, 09 May 2020 19:57:26 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
     <image>
       <url>https://siaj.github.io/img/icon-192.png</url>
       <title>Sibdow Iddrisu</title>
       <link>https://siaj.github.io/</link>
     </image>
+    
+    <item>
+      <title>Reactjs</title>
+      <link>https://siaj.github.io/project/reactjs/</link>
+      <pubDate>Sun, 10 May 2020 18:39:53 -0600</pubDate>
+      <guid>https://siaj.github.io/project/reactjs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The page is currently under construction
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>PASSING MY AWS CERTIFIED SAA EXAM</title>
@@ -34,13 +47,13 @@
 &lt;li&gt;NB: Please read product documentation for the required services (Overview, Features &amp;amp; Faqs)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div id=&#34;vid_train&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;2. Videos:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Videos Tutorials on Udemy:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/&#34; target=&#34;_blank&#34;&gt;Stephane Maarek&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate/&#34; target=&#34;_blank&#34;&gt;A Cloud Guru&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div id=&#34;practice&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;3. Practice Exam:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Practice Exams on Udemy:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/&#34; target=&#34;_balnk&#34;&gt;Solutions Architect Practice Exams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
