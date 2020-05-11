@@ -17,14 +17,16 @@
       <link>https://siaj.github.io/post/aws-certification-solutions-architect/</link>
       <pubDate>Sat, 09 May 2020 19:57:26 -0600</pubDate>
       <guid>https://siaj.github.io/post/aws-certification-solutions-architect/</guid>
-      <description>&lt;p&gt;This is just a short post about the tools and materials I used to prepare for and pass my AWS certifications (Certified Cloud Practitioner and Certified Solutins Architect Associate). My initial preparation was towards the Solutions Architect Examination but then I decided to take the Practitioner exam before that, knowing that if I passed that one, it would give me lots of confidence going in for the Solutions Architect exam.&lt;/p&gt;
+      <description>&lt;hr/&gt;
+&lt;p&gt;This is just a short post about the tools and materials I used to prepare for and pass my AWS certifications (Certified Cloud Practitioner and Certified Solutins Architect Associate). My initial preparation was towards the Solutions Architect Examination but then I decided to take the Practitioner exam before that, knowing that if I am able to pass that one, it would give me lots of confidence going into the Solutions Architect exam.&lt;/p&gt;
 &lt;p&gt;The whole preparation process took roughly 7 weeks for me, and that&#39;s one thing about these certification exams, you need to take as much time as possible to prepare for them as they can be really tricky and difficult if you do not have the sufficient preparation.&lt;/p&gt;
-&lt;p&gt;I made use of materials from the AWS certification prep website (&lt;a href=&#34;#aws_links&#34;&gt;link below&lt;/a&gt;), where I got the gist of what to know and some recommended material to study in order to pass the exam. Things like the exam guide and a sample question is available to give you a general idea as to what to expect. Most importantly, there are links to the whitepapers and FAQs of the necessary services you need to know.&lt;/p&gt;
-&lt;p&gt;Just thas alone was not enough to effectively study for the exam, so I made use of some video tutorials from udemy (&lt;a href=&#34;#vid_train&#34;&gt;link below&lt;/a&gt;). The videos really helped me a lot, as it made going through and learning about the various services less painful - because you see someone explain and demonstrate. I went through the video tutorials twice; the first round was just watching to get a general idea of the content (more like watching a TV show) and in the second round, I made lots of notes and got my &amp;lsquo;hands dirty&amp;rsquo; by practicing along with the instructor.&lt;/p&gt;
-&lt;p&gt;After feeling confident about the knowledge gained so far, I got an exam prep practice exam (also from udemy - &lt;a href=&#34;#practice&#34;&gt;link below&lt;/a&gt;) to validate my knowledge before going in for the main exam. In my opinion, these practice tests are generally difficult than the main exam but excellent in preparing you for the exam - so don&#39;t be heart broken if you fail a couple of them. They provide detailed explanations to the solutions and that again helps in clearing some doubts and solidifying your knowledge in the subject matter.&lt;/p&gt;
-&lt;p&gt;I took the Cloud Practioner exam after this, and it was really good - it helped increase my confidence, so I booked the Solutions Architect Associate (SAA) exam for the following week and passed that one too. Currently preparing to take the Developer Associate exam sometime this month and maybe the SysOps Admin Associate some other time in the near future.&lt;/p&gt;
-&lt;p&gt;I am hoping this would help those interested in pursuing the AWS Certified Solutions Architect Exam or even the Cloud Practitioner (&lt;a href=&#34;#vid&#34;&gt;video below&lt;/a&gt;) prepare sufficiently in order to ace these exams. Good Luck!!&lt;/p&gt;
-&lt;h1 id=&#34;materials&#34;&gt;&lt;strong&gt;MATERIALS&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;I made use of materials from the AWS certification prep website (&lt;a href=&#34;#aws_links&#34;&gt;link below&lt;/a&gt;), where I got the gist of what to know and some recommended material to study in order to pass the exam. Things like the exam guide and a short sample exam is available to give you a general idea as to what to expect. Most importantly, there are links to whitepapers and FAQs of the necessary services you need to know.&lt;/p&gt;
+&lt;p&gt;Just that alone was not enough to effectively study for the exam, at least for me, so I made use of some video tutorials from udemy (&lt;a href=&#34;#vid_train&#34;&gt;links below&lt;/a&gt;). The videos really helped me a lot, as it made going through and learning about the various services less painful - because you see someone explain and demonstrate. I went through the video tutorials twice; the first round was just watching to get a general idea about the content (more like watching a TV show), and in the second round, I made lots of notes and got my &amp;lsquo;hands dirty&amp;rsquo; by practicing along with the instructor.&lt;/p&gt;
+&lt;p&gt;After feeling confident about the knowledge gained so far, you may want to get some practice exams (also from udemy - &lt;a href=&#34;#practice&#34;&gt;link below&lt;/a&gt;) to validate your knowledge before going in for the main exam. In my opinion, these practice exams are generally difficult than the main exam but excellent in preparing you for the exam - so don&#39;t be too hard on yourself should you fail a couple of them. They provide detailed explanations to the solutions and that again helps in clearing some doubts and solidifying your knowledge in the subject matter.&lt;/p&gt;
+&lt;p&gt;I decided to take the Cloud Practioner exam after my preparation thus far, and it was really good - it helped increase my confidence, so I booked the Solutions Architect Associate (SAA) exam for the following week and passed that one too. Currently preparing to take the Developer Associate exam sometime this month and maybe the SysOps Admin Associate some other time in the near future.&lt;/p&gt;
+&lt;p&gt;I am hoping this would help those interested in pursuing the AWS Certified Solutions Architect Exam or even the Cloud Practitioner (&lt;a href=&#34;#vid&#34;&gt;video below&lt;/a&gt;) prepare sufficiently in order to ace these exams. Good Luck!&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h1&gt;&lt;u&gt;MATERIALS&lt;/u&gt;&lt;/h1&gt;
 &lt;div id=&#34;aws_links&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;1. AWS Whitepapers &amp;amp; Other Materials:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -42,12 +44,14 @@
 &lt;div id=&#34;practice&#34; style=&#34;padding-top: 20px&#34;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;3. Practice Exams on Udemy:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/&#34; target=&#34;_balnk&#34;&gt;Solutions Architect Practice Exams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/&#34; target=&#34;_balnk&#34;&gt;Solutions Architect Practice Exams&lt;/a&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;hr/&gt;
 &lt;p&gt;&lt;strong&gt;SOME IMPORTANT NOTES FOR SAA:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Please take some time to watch some AWS re:Invent videos on youtube, they have really excellent talks about their products and services (what is better than learning about a product from the owners of the product)&lt;/p&gt;
+&lt;p&gt;Please take some time to watch a couple of AWS re:Invent videos on youtube, they have really excellent talks about their services (what is better than learning about a service from the owners of the service)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;You should know and understand the concepts around the Amazon VPC inside-out. Be able to design, build and solve VPC problem efficiently without any reference&lt;/p&gt;
