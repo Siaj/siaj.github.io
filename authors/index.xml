@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Sibdow Iddrisu</title>
-    <link>https://siaj.github.io/authors/</link>
-      <atom:link href="https://siaj.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Nabeega Latif</title>
+    <link>https://Nabeegacryptocode.github.io/authors/</link>
+      <atom:link href="https://Nabeegacryptocode.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Nabeega Latif</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
     <image>
-      <url>https://siaj.github.io/img/icon-192.png</url>
+      <url>https://Nabeegacryptocode.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://siaj.github.io/authors/</link>
+      <link>https://Nabeegacryptocode.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://siaj.github.io/authors/admin/</link>
+      <link>https://Nabeegacryptocode.github.io/authors/admin/</link>
       <pubDate>Sun, 10 May 2020 18:39:53 -0600</pubDate>
-      <guid>https://siaj.github.io/authors/admin/</guid>
+      <guid>https://Nabeegacryptocode.github.io/authors/admin/</guid>
       <description>&lt;p&gt;A recent graduate (2019) from the University of Regina, Canada - enthusiastic about computer science applied to solving everyday problems. During my studies, I took several courses that involved extensive research into the subject matter as well as technical implementation(s). The courses taken included: Software Engineering, Information Visualization, Information Retrieval, Artificail Intelligence, Database Systems, Human Computer Communications, Networking, Compiler Design, IoT and JavaEE Programming.&lt;/p&gt;
 &lt;p&gt;I have extensive experience in the telecommunications industry as a NOC Engineer - monitoring and troubleshooting fault alarms - on remote cell towers of the biggest telecommunications company in Ghana - MTN. Acquired time management skills, decision making, being able to work under pressure, multitasking, prioritization, customer management skills and many other soft skills during this period&lt;/p&gt;
 &lt;p&gt;Also, I have extensive hands-on programming experience gained on courses taken in class and online, personal projects and internship. Programming languages I have worked with include: Python, Java, JavaScript, C++ and Arduino C. Web development experience in JavaScript(Angular, React), Java(J2EEE) and Pyhton(Django, Django CMS)&lt;/p&gt;

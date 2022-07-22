@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sibdow Iddrisu</title>
-    <link>https://siaj.github.io/authors/admin/</link>
-      <atom:link href="https://siaj.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sibdow Iddrisu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
+    <title>Nabeega Latif</title>
+    <link>https://Nabeegacryptocode.github.io/authors/admin/</link>
+      <atom:link href="https://Nabeegacryptocode.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nabeega Latif</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Nabeega Latif</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
     <image>
-      <url>https://siaj.github.io/img/icon-192.png</url>
-      <title>Sibdow Iddrisu</title>
-      <link>https://siaj.github.io/authors/admin/</link>
+      <url>https://Nabeegacryptocode.github.io/img/icon-192.png</url>
+      <title>Nabeega Latif</title>
+      <link>https://Nabeegacryptocode.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Reactjs</title>
-      <link>https://siaj.github.io/project/reactjs/</link>
+      <link>https://Nabeegacryptocode.github.io/project/reactjs/</link>
       <pubDate>Sun, 10 May 2020 18:39:53 -0600</pubDate>
-      <guid>https://siaj.github.io/project/reactjs/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/reactjs/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -27,9 +27,9 @@
     
     <item>
       <title>PASSING MY AWS CERTIFIED SAA EXAM</title>
-      <link>https://siaj.github.io/post/aws-certification-solutions-architect/</link>
+      <link>https://Nabeegacryptocode.github.io/post/aws-certification-solutions-architect/</link>
       <pubDate>Sat, 09 May 2020 19:57:26 -0600</pubDate>
-      <guid>https://siaj.github.io/post/aws-certification-solutions-architect/</guid>
+      <guid>https://Nabeegacryptocode.github.io/post/aws-certification-solutions-architect/</guid>
       <description>&lt;hr/&gt;
 &lt;p&gt;This is just a short post about the tools and materials I used to prepare for and pass my AWS certifications (Certified Cloud Practitioner and Certified Solutins Architect Associate). My initial preparation was towards the Solutions Architect Examination but then I decided to take the Practitioner exam before that, knowing that if I am able to pass that one, it would give me lots of confidence going into the Solutions Architect exam.&lt;/p&gt;
 &lt;p&gt;The whole preparation process took roughly 7 weeks for me, and that&#39;s one thing about these certification exams, you need to take as much time as possible to prepare for them as they can be really tricky and difficult if you do not have the sufficient preparation.&lt;/p&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Django</title>
-      <link>https://siaj.github.io/project/django/</link>
+      <link>https://Nabeegacryptocode.github.io/project/django/</link>
       <pubDate>Sun, 15 Dec 2019 00:44:06 -0600</pubDate>
-      <guid>https://siaj.github.io/project/django/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/django/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -103,9 +103,9 @@
     
     <item>
       <title>Angular</title>
-      <link>https://siaj.github.io/project/angular/</link>
+      <link>https://Nabeegacryptocode.github.io/project/angular/</link>
       <pubDate>Sun, 15 Dec 2019 00:43:28 -0600</pubDate>
-      <guid>https://siaj.github.io/project/angular/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/angular/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -116,28 +116,28 @@
     
     <item>
       <title>Recommender</title>
-      <link>https://siaj.github.io/project/ai-recommender_system/</link>
+      <link>https://Nabeegacryptocode.github.io/project/ai-recommender_system/</link>
       <pubDate>Fri, 13 Dec 2019 12:06:37 -0600</pubDate>
-      <guid>https://siaj.github.io/project/ai-recommender_system/</guid>
-      <description>&lt;p&gt;Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the &lt;a href=&#34;https://github.com/Siaj&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/ai-recommender_system/</guid>
+      <description>&lt;p&gt;Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BiRDS App</title>
-      <link>https://siaj.github.io/project/birds-app/</link>
+      <link>https://Nabeegacryptocode.github.io/project/birds-app/</link>
       <pubDate>Fri, 13 Dec 2019 12:06:08 -0600</pubDate>
-      <guid>https://siaj.github.io/project/birds-app/</guid>
-      <description>&lt;p&gt;Birth and Death Registry Automation System. Find the &lt;a href=&#34;https://github.com/Siaj/birdsApp&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/birds-app/</guid>
+      <description>&lt;p&gt;Birth and Death Registry Automation System. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode/birdsApp&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IoT System</title>
-      <link>https://siaj.github.io/project/iot-fire_prevention_system/</link>
+      <link>https://Nabeegacryptocode.github.io/project/iot-fire_prevention_system/</link>
       <pubDate>Tue, 13 Aug 2019 11:48:38 -0600</pubDate>
-      <guid>https://siaj.github.io/project/iot-fire_prevention_system/</guid>
-      <description>&lt;p&gt;IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the &lt;a href=&#34;https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/iot-fire_prevention_system/</guid>
+      <description>&lt;p&gt;IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode/Arduino-Fire-Safety-System-with-NodeMCU&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
