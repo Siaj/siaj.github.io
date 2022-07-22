@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Sibdow Iddrisu</title>
-    <link>https://siaj.github.io/post/</link>
-      <atom:link href="https://siaj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Nabeega Latif</title>
+    <link>https://Nabeegacryptocode.github.io/post/</link>
+      <atom:link href="https://Nabeegacryptocode.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sat, 09 May 2020 19:57:26 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Nabeega Latif</copyright><lastBuildDate>Sat, 09 May 2020 19:57:26 -0600</lastBuildDate>
     <image>
-      <url>https://siaj.github.io/img/icon-192.png</url>
+      <url>https://Nabeegacryptocode.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://siaj.github.io/post/</link>
+      <link>https://Nabeegacryptocode.github.io/post/</link>
     </image>
     
     <item>
       <title>PASSING MY AWS CERTIFIED SAA EXAM</title>
-      <link>https://siaj.github.io/post/aws-certification-solutions-architect/</link>
+      <link>https://Nabeegacryptocode.github.io/post/aws-certification-solutions-architect/</link>
       <pubDate>Sat, 09 May 2020 19:57:26 -0600</pubDate>
-      <guid>https://siaj.github.io/post/aws-certification-solutions-architect/</guid>
+      <guid>https://Nabeegacryptocode.github.io/post/aws-certification-solutions-architect/</guid>
       <description>&lt;hr/&gt;
 &lt;p&gt;This is just a short post about the tools and materials I used to prepare for and pass my AWS certifications (Certified Cloud Practitioner and Certified Solutins Architect Associate). My initial preparation was towards the Solutions Architect Examination but then I decided to take the Practitioner exam before that, knowing that if I am able to pass that one, it would give me lots of confidence going into the Solutions Architect exam.&lt;/p&gt;
 &lt;p&gt;The whole preparation process took roughly 7 weeks for me, and that&#39;s one thing about these certification exams, you need to take as much time as possible to prepare for them as they can be really tricky and difficult if you do not have the sufficient preparation.&lt;/p&gt;

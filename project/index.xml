@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Sibdow Iddrisu</title>
-    <link>https://siaj.github.io/project/</link>
-      <atom:link href="https://siaj.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Nabeega Latif</title>
+    <link>https://Nabeegacryptocode.github.io/project/</link>
+      <atom:link href="https://Nabeegacryptocode.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Sibdow Iddrisu</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 . Nabeega Latif</copyright><lastBuildDate>Sun, 10 May 2020 18:39:53 -0600</lastBuildDate>
     <image>
-      <url>https://siaj.github.io/img/icon-192.png</url>
+      <url>https://Nabeegacryptocode.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://siaj.github.io/project/</link>
+      <link>https://Nabeegacryptocode.github.io/project/</link>
     </image>
     
     <item>
       <title>Reactjs</title>
-      <link>https://siaj.github.io/project/reactjs/</link>
+      <link>https://Nabeegacryptocode.github.io/project/reactjs/</link>
       <pubDate>Sun, 10 May 2020 18:39:53 -0600</pubDate>
-      <guid>https://siaj.github.io/project/reactjs/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/reactjs/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -27,9 +27,9 @@
     
     <item>
       <title>Django</title>
-      <link>https://siaj.github.io/project/django/</link>
+      <link>https://Nabeegacryptocode.github.io/project/django/</link>
       <pubDate>Sun, 15 Dec 2019 00:44:06 -0600</pubDate>
-      <guid>https://siaj.github.io/project/django/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/django/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -40,9 +40,9 @@
     
     <item>
       <title>Angular</title>
-      <link>https://siaj.github.io/project/angular/</link>
+      <link>https://Nabeegacryptocode.github.io/project/angular/</link>
       <pubDate>Sun, 15 Dec 2019 00:43:28 -0600</pubDate>
-      <guid>https://siaj.github.io/project/angular/</guid>
+      <guid>https://Nabeegacryptocode.github.io/project/angular/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     The page is currently under construction
@@ -53,28 +53,28 @@
     
     <item>
       <title>Recommender</title>
-      <link>https://siaj.github.io/project/ai-recommender_system/</link>
+      <link>https://Nabeegacryptocode.github.io/project/ai-recommender_system/</link>
       <pubDate>Fri, 13 Dec 2019 12:06:37 -0600</pubDate>
-      <guid>https://siaj.github.io/project/ai-recommender_system/</guid>
-      <description>&lt;p&gt;Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the &lt;a href=&#34;https://github.com/Siaj&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/ai-recommender_system/</guid>
+      <description>&lt;p&gt;Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BiRDS App</title>
-      <link>https://siaj.github.io/project/birds-app/</link>
+      <link>https://Nabeegacryptocode.github.io/project/birds-app/</link>
       <pubDate>Fri, 13 Dec 2019 12:06:08 -0600</pubDate>
-      <guid>https://siaj.github.io/project/birds-app/</guid>
-      <description>&lt;p&gt;Birth and Death Registry Automation System. Find the &lt;a href=&#34;https://github.com/Siaj/birdsApp&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/birds-app/</guid>
+      <description>&lt;p&gt;Birth and Death Registry Automation System. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode/birdsApp&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IoT System</title>
-      <link>https://siaj.github.io/project/iot-fire_prevention_system/</link>
+      <link>https://Nabeegacryptocode.github.io/project/iot-fire_prevention_system/</link>
       <pubDate>Tue, 13 Aug 2019 11:48:38 -0600</pubDate>
-      <guid>https://siaj.github.io/project/iot-fire_prevention_system/</guid>
-      <description>&lt;p&gt;IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the &lt;a href=&#34;https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
+      <guid>https://Nabeegacryptocode.github.io/project/iot-fire_prevention_system/</guid>
+      <description>&lt;p&gt;IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the &lt;a href=&#34;https://github.com/Nabeegacryptocode/Arduino-Fire-Safety-System-with-NodeMCU&#34;&gt;CODE&lt;/a&gt; for this project on my github repository.&lt;/p&gt;
 </description>
     </item>
     
